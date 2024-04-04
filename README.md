@@ -5,11 +5,17 @@ The galaxy catalogs are named "TNG100_gal_mcpm_[snap].txt", where [snap] is snap
 The columns of each file are as follows (some of these are from https://www.tng-project.org/data/docs/specifications/):
 
 parentID = SubhaloParent from the TNG data access site
+
 galID = SubfindID (subhalo/galaxy ID) from the TNG data access site
+
 haloID = GroupID (halo ID) from the TNG data access site
+
 gal_x, gal_y, gal_z = SubhaloCM from the TNG data access site, in comoving Mpc 
+
 rh = Group_R_Crit200from (halo virial radius R_200,c) from the TNG data access site, in comoving Mpc 
+
 mh = Group_M_Crit200from (halo virial mass M_200,c) from the TNG data access site, in solar mass
+
 ms = SubhaloMassType for stars (total stellar mass M*) from the TNG data access site, in solar mass
 ms_2re = SubhaloMassInRadType for stars (stellar mass within twice stellar half-mass radius) from the TNG data access site, in solar mass
 mg = SubhaloMassType for gas (total gas mass Mgas) from the TNG data access site, in solar mass
