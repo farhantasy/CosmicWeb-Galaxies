@@ -1,6 +1,6 @@
 FARHANUL HASAN (farhasan@nmsu.edu)
 
-This repo contains data for the TNG100 simulation (https://www.tng-project.org/) generated for the paper submitted to ApJ (Nov 2023) titled "Filaments of The Slime Mold Cosmic Web And How They Affect Galaxy Evolution": https://arxiv.org/abs/2311.01443
+This repo contains data for the TNG100 simulation (https://www.tng-project.org/) generated for the paper published in ApJ (Aug 2024) titled "Filaments of The Slime Mold Cosmic Web And How They Affect Galaxy Evolution": https://iopscience.iop.org/article/10.3847/1538-4357/ad4ee2
 
 
 "Galaxy_cats.README" contains the description of galaxy catalogs in the folder "galaxy_catalogs_TNG100"
